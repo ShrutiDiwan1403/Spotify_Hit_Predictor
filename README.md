@@ -10,13 +10,17 @@
 **Tool**: Tableau
 
 
-**Performance Outcome**:
+
 
 
 **Glimpse of Dashboards**:
 
+*Energy Dashboard*
+
 ![Energy_Dashboard](https://github.com/user-attachments/assets/09698702-a481-4ab4-90e3-d2079b80242d)
 
+
+*Valence Dashboard8
 
 ![Valence_Dashboard](https://github.com/user-attachments/assets/23a9fe95-71e7-40c1-a776-6afbc7ce4a2c)
 
@@ -25,6 +29,9 @@
 
 
 **Dashboard Link**: https://public.tableau.com/app/profile/shruti.sindhi6021/viz/Spotify_Analysis_16971477136270/
+
+
+**Performance Outcome**:
 
 
 ![vinyl___](https://github.com/user-attachments/assets/408fd118-fe26-47bd-bf24-5700c4ad6b78)
