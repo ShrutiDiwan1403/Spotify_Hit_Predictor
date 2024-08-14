@@ -57,7 +57,7 @@ The was a downfall in the number of pop track compositions till late 2000. But a
 **Dashboard Link**: https://public.tableau.com/app/profile/shruti.sindhi6021/viz/Spotify_Analysis_16971477136270/
 
 
-**Performance Outcome**:
+**Performance Outcome**: Conducted exploratory and predictive examinations on 41,100 American music tracks retrieved from Spotify's Web API. Generated BI dashboards and narratives using Tableau and utilized an Artificial Neural Network to get insight and predict the success and failure of tracks based on available features. The neural network was trained with 10 epochs, achieving an accuracy of 75.15%. This process also enhanced my understanding of the business aspects of the music industry.
 
 
 ![vinyl___](https://github.com/user-attachments/assets/408fd118-fe26-47bd-bf24-5700c4ad6b78)
