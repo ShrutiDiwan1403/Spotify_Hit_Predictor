@@ -2,8 +2,11 @@
 **Objective Summary**: Labouring with the Spotify dataset is to predict a hit song using different soundtrack feature.The other sub-objective is to improve the research of musicologists employing exploratory and predictive analysis. Simultaneously enhance the creativity of the music virtuoso. 
 
 
-**Description and Insight**:
+**Description and Insight**: Music is a vocal or instrumental sound or combination of both fused in a way that produces a beautiful form of harmony and expression of emotion. Music is the language of the universe. It brings people together. It not only inspires people but also improves focus and memory and improves cognitive abilities. In addition, it sometimes lowers the blood pressure if listened correctly. In other words, music is not the solution to all the problems, but it can help tackle the issue better. The purpose of labouring with the Spotify dataset is to predict a hit song using different soundtrack features. Also, along the way, find the relationship between other elements in the suggested music dataset from 1960 to 2019. The database comprises American and Latin American artists only. The other sub-objective is to improve the research of musicologists employing exploratory and predictive analysis. Simultaneously enhance the creativity of the music virtuoso. The future goal of the study is to discover the hit predictor for each artist from 1960 to 2019 based on their song 
+information available in the existing dataset.
 
+
+The final selected dataset has a meticulous range of fields to give more information about the track (song), but the database did not consist of field genre from a domain point of view. Therefore, found a similar dataset consisting of genre fields and linked it to the original dataset in the tableau.
 
 **Programming Language**:  --
 
