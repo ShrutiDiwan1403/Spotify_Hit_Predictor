@@ -18,8 +18,8 @@
 ![Energy_Dashboard](https://github.com/user-attachments/assets/09698702-a481-4ab4-90e3-d2079b80242d)
 
 
-*Target Audience and decision-making process*: The prime beneficiary of this layout will be the *artists themselves, music composers, and listeners*. First, the performer/singer will recognize the key and genre they are more comfortable with while creating the melody. What is their liveness when they sing a song with a particular key? Finally, they can ascertain their energy range. And work on improving it if required. Listeners can pick songs and artists depending upon the energy range they favour. They can also consider the genre. The layout will work as a blueprint for the music composers can work on developing music after understanding the energy range of the artist. They 
-can also unveil the energy trend in different decades before releasing their work. Since energy is *the sense of forwarding motion in music, whatever keeps the listener engaged and listening*. Composers can *write and arrange music for various media, including film, tv, stage productions, video games, and advertisements, as per the energy requirement in that scenario*. 
+*Target Audience and decision-making process*: The prime beneficiary of this layout will be the **artists themselves, music composers, and listeners**. First, the performer/singer will recognize the key and genre they are more comfortable with while creating the melody. What is their liveness when they sing a song with a particular key? Finally, they can ascertain their energy range. And work on improving it if required. Listeners can pick songs and artists depending upon the energy range they favour. They can also consider the genre. The layout will work as a blueprint for the music composers can work on developing music after understanding the energy range of the artist. They 
+can also unveil the energy trend in different decades before releasing their work. Since energy is **the sense of forwarding motion in music, whatever keeps the listener engaged and listening**. Composers can **write and arrange music for various media, including film, tv, stage productions, video games, and advertisements, as per the energy requirement in that scenario**. 
 
 
 *Purpose*: The intent here is to find the liveness of the melody for all the musical keys. The other aspiration is to find the relationship of energy feature with other remaining features of the songs. 
@@ -37,6 +37,18 @@ can also unveil the energy trend in different decades before releasing their wor
 ![Valence_Dashboard](https://github.com/user-attachments/assets/23a9fe95-71e7-40c1-a776-6afbc7ce4a2c)
 
 
+**Note: The valence attribute had myriad values between the range of 0.0 and 1.0. For better graphical presentation and analysis. There was categorizing a numerical value to cheerful, happy, and sad depressing**. 
+
+*Target Audience and decision-making process*: The target customers to utilize the dashboard are listeners, music composers, audio engineers, and songwriters. The layout will help the listeners select a song based on their mood. They don't need to apprehend what instrumental value is; they can opt for the theme just established founded by decade and genre. The information portrayed on the dashboard will suggest songwriters, audio engineers, and music composers select the instrumental value while making the song keeping the genre and the valence in mind. The engineers, composers, and writers must work collectively to settle the song's mood. Otherwise, unexpected, 
+funny music pieces will be created. For instance, a rap song with high instrumental value and not much rap content cannot be classified as a rap song as it will not meet the standard. 
+
+
+*Purpose*: The layout intends to light the number of cheerful, happy, and sad depressing songs each decade. At the same time, also track down the melody based on genre. And determine the valence by genre. Eventually, the purpose is to find the average instrumental value for each valence type. 
+
+*Information it presents and Actionable Insights*: It was realized that the maximum number of tracks were sung in 1960 in the POP genre. And most of the songs were happy songs in all six decades. It is generally believed that sad and depressing songs are more instrumental than other types of music. The above exploratory analysis confirmed the belief that the average instrumental value of the sad depressing piece is more than happy or cheerful songs. It is further followed by cheerful and happy music, respectively. Dazing information revealed from the dashboard was that the average instrumental value for the sad and depressing track was in the rock genre. But there was an expectation that the maximum average weight for sad songs would be revealed in Latin or pop music. The instrumental-valence graph corroborated that the rap songs are more speechy and less instrumental. The happy rap song has the most negligible instrumental value of 0.0320. The cheerful music in the rock genre has almost the same value as sad music in the rap category. The value is 
+close to 0.2. 
+
+The was a downfall in the number of pop track compositions till late 2000. But a spike was seen from the beginning and throughout the 2010 decade. On the other hand, the number of EDM tracks created was constantly low over six decades.
 
 
 **Dashboard Link**: https://public.tableau.com/app/profile/shruti.sindhi6021/viz/Spotify_Analysis_16971477136270/
