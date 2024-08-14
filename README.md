@@ -1,3 +1,20 @@
 # Spotify_Hit_Predictor
-Labouring with the Spotify dataset is to predict a hit song using different soundtrack feature.
-Description of the project: Conducted exploratory and predictive examinations on 41,100 American music tracks retrieved from Spotify's Web API. Generated BI dashboards and narratives using Tableau and utilized an Artificial Neural Network to get insight and predict the success and failure of tracks based on available features. The neural network was trained with 10 epochs, achieving an accuracy of 75.15%. This process also enhanced my understanding of the business aspects of the music industry.
+**Objective Summary**:
+
+
+**Description and Insight**:
+
+
+**Programming Language**:
+
+
+**Performance Outcome**:
+
+
+**Glimpse of Dashboards**:
+
+
+**Dashboards Explanation**: 
+
+
+**Tableau Link**: 
